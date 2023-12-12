@@ -1,9 +1,5 @@
 IT Academy - Projecte Final Data Science - Edaimon De Juan
 
-Construcció d'un Classificador de Sentiments en Ressenyes de Pel·lícules amb Scikit-Learn
-
-
-##
 
 ## Títol
 
