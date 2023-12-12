@@ -28,11 +28,14 @@ La llibreria scikit-learn, també coneguda com sklearn, és una llibreria de pro
 
 En el context d'aquest treball, s'ha triat l'aprenentatge supervisat com a mètode principal, i per tant s’ha descartat l’aprenentatge no supervisat. Aquesta decisió es basa en el fet que l'aprenentatge supervisat utilitza conjunts de dades etiquetats, és a dir, les dades ja contenen les respostes desitjades. Això és fonamental en tasques com la classificació de ressenyes, on es vol predir la polaritat (positiva o negativa) d'una ressenya. Les ressenyes són valors discrets _per se_, negatius/positius, i aquest és l’origen de la idoneitat d’aquesta llibreria.
 
-
+![](https://lh7-us.googleusercontent.com/3hsRYol02ihOC5jo7Juh6zI3ckhI6HXlKgUkA5Pz45vh5L0CKXa7FyCL8DpiMTMw1_7loTJrRoRLWA5JXTKnvjkKRsOKp9kGqWgisWOSkEnJorNsqWMHuharWcRWxDvA1IZnLRZLvJYnz81vnCwpsPs)
 
 _Fig. 1: Algoritmes i eines de sklearn utilitzats a aquest treball._
 
 _Font: Elaboració pròpia_
+
+__
+
 
 Les fases en la que es divideix aquest projecte són les següents:
 
