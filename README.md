@@ -1,5 +1,19 @@
-IT Academy - Projecte Final Data Science - Edaimon De Juan
+# Construcció d'un Classificador de Sentiments en Ressenyes de Pel·lícules amb Scikit-Learn
+## IT Academy - Projecte Final Data Science - Edaimon De Juan
 
+## Índex
+
+1. [Títol](#títol)
+2. [Objectiu](#objectiu)
+3. [Dataset](#dataset)
+4. [Metodologia](#metodologia)
+   1. [Llibreria scikit-learn](#llibreria-scikit-learn)
+   2. [Preparació de les Dades](#preparació-de-les-dades)
+   3. [Representació de Text (Bag of Words)](#representació-de-text-bag-of-words)
+   4. [Selecció del Model](#selecció-del-model)
+   5. [Afinació del Model](#afinació-del-model)
+5. [Conclusions](#conclusions)
+6. [Bibliografia](#bibliografia)
 
 ## Títol
 
